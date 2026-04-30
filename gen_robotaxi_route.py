@@ -1,4 +1,4 @@
-from dispatch import Dispatch
+from robotaxi.dispatch import Dispatch
 import json
 from tqdm import tqdm
 import time
